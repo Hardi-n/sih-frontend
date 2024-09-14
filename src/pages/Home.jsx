@@ -1,6 +1,6 @@
 import React from "react";
 import { Button } from "@/shadcn/ui/button"; // Ensure the import path is correct
-import TwoButtonPage from "./TwoButtonPage";
+import TwoButtonPage from "../components/TwoButtoncomponent";
 
 function Home() {
   return (
